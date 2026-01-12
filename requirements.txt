@@ -4,7 +4,7 @@
 #
 #    pip-compile
 #
-aiohttp==3.8.3
+aiohttp==3.13.3
     # via web3
 aiosignal==1.2.0
     # via aiohttp
@@ -238,7 +238,7 @@ tqdm==4.64.1
     # via -r requirements.in
 typing-extensions==4.4.0
     # via black
-urllib3==1.26.12
+urllib3==2.6.3
     # via requests
 varint==1.0.2
     # via multiaddr
